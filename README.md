@@ -16,7 +16,11 @@
 
 建议学习顺序：GameThread ->（待补充）
 
-- [GameThread 篇](./GameThread篇.md)：UE 整体线程模型概览、Game Thread 的职责与运行框
+- [GameThread 篇](./GameThread篇.md)：UE 整体线程模型概览、Game Thread 的职责与运行框架、游戏逻辑如何在单线程上组织等。
+
+### 反射与类型系统合集
+
+- [UE 反射机制篇](./UE反射机制篇.md)：反射的作用与引入反射的原因、UCLASS/UPROPERTY/UFUNCTION 如何通过 UHT/UBT 建立运行时类型描述、UClass/FProperty/UFunction/CDO 的底层表示与组织方式、构建流程及运行时 UObject → UClass 关联等。
 
 ## 阅读建议
 

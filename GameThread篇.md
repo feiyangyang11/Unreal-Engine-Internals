@@ -6,7 +6,7 @@
 
 ------
 
-# UE 线程模型深究--Game Thread
+# UE 线程模型探索--Game Thread
 
 ## UE 的整体线程模型简介
 
